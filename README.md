@@ -1,2 +1,2 @@
-# server_li
-Desarrollo web de app
+# Mi CV
+El desarrollo fue realizado en HTML
